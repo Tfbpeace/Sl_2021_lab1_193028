@@ -3,3 +3,10 @@ git
 programiranje
 softversko
 labaratoriska
+
+github
+kod
+zborovi
+dodadi
+desktop
+polaganje
