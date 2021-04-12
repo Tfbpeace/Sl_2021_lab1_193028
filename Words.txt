@@ -5,8 +5,11 @@ softversko
 labaratoriska
 
 github
+<<<<<<< HEAD
 kod
 zborovi
 dodadi
 desktop
 polaganje
+=======
+>>>>>>> branch2
